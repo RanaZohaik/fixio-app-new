@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525612847848",
+    "project_id": "fixio-b9b11",
+    "storage_bucket": "fixio-b9b11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525612847848:android:4c74e6581aa6a849752f5d",
+        "android_client_info": {
+          "package_name": "com.example.fixio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm3-GwkERxM9lwdcTFlZTFDSmLd1NlU1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
